@@ -18,7 +18,8 @@
   "license": "MIT",
   "dependencies": {
     "react": "^15.3.2",
-    "react-dom": "^15.3.2"
+    "react-dom": "^15.3.2",
+    "react-jwt-auth": "^0.2.1"
   },
   "devDependencies": {
     "babel-core": "^6.17.0",
