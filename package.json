@@ -1,7 +1,7 @@
 {
   "name": "react-jwt-auth-redux",
   "version": "0.3.2",
-  "description": "JSON Web Token authentication and authorization component for React",
+  "description": "React JWT Auth (react-jwt-auth) wrappers for Redux",
   "files": [
     "lib",
     "README"
@@ -20,7 +20,9 @@
     "jwt",
     "authentication",
     "token",
-    "component"
+    "component",
+    "flux",
+    "redux"
   ],
   "author": "",
   "license": "MIT",
