@@ -5,6 +5,10 @@ import { refreshToken, exchangeCodeForToken } from './wrapped-local'
 import Auth from './components/auth'
 export {Auth}
 
+const {Facebook, Google} = auth
+export { Facebook }
+export { Google }
+
 import authMiddleware from './middleware'
 export { authMiddleware }
 
