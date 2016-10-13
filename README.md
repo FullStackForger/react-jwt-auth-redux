@@ -6,8 +6,8 @@
 
 ## Example
 
-Check out [fullstackforger/react-starter-pack][react-starter-pack] to see this package in action.
+Check out [fullstackforger/fs-react-starter-pack][fs-react-starter-pack] to see this package in action.
 
 [redux]: http://redux.js.org/
 [react-jwt-auth]: https://github.com/fullstackforger/react-jwt-auth
-[react-starter-pack]: https://github.com/fullstackforger/react-starter-pack
+[fs-react-starter-pack]: https://github.com/fullstackforger/fs-react-starter-pack
