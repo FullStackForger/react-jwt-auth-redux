@@ -1,6 +1,6 @@
 {
   "name": "react-jwt-auth-redux",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "description": "React JWT Auth (react-jwt-auth) wrappers for Redux",
   "files": [
     "lib",
