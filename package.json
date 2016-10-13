@@ -4,7 +4,7 @@
   "description": "JSON Web Token authentication and authorization component for React",
   "main": "index.js",
   "scripts": {
-    "test": "mocha --compilers js:babel-core/register --require ./internals/setup.js ./src/**/*.spec.js"
+    "test": "mocha --compilers js:babel-core/register --require ./internals/test.setup.js ./src/**/*.spec.js"
   },
   "keywords": [
     "react",
@@ -26,6 +26,7 @@
     "babel-loader": "^6.2.5",
     "babel-preset-latest": "^6.16.0",
     "babel-preset-react": "^6.16.0",
+    "chai": "^3.5.0",
     "fetch-mock": "^5.5.0",
     "jsdom": "^9.6.0",
     "mocha": "^3.1.2",
@@ -33,6 +34,7 @@
     "react": "^15.3.2",
     "react-addons-test-utils": "^15.3.2",
     "react-hot-loader": "^3.0.0-beta.5",
+    "react-jwt-auth": "^0.4.1",
     "react-router": "^2.8.1",
     "webpack": "^1.13.2",
     "webpack-dev-server": "^1.16.2"
