@@ -2,9 +2,9 @@
   "name": "react-jwt-auth-redux",
   "version": "0.3.3",
   "description": "React JWT Auth (react-jwt-auth) wrappers for Redux",
-  "repository" : {
-    "type" : "git",
-    "url" : "https://github.com/fullstackforger/react-jwt-auth-redux"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fullstackforger/react-jwt-auth-redux"
   },
   "files": [
     "lib",
@@ -33,7 +33,7 @@
   "dependencies": {
     "react": "^15.3.2",
     "react-dom": "^15.3.2",
-    "react-jwt-auth": "*"
+    "react-jwt-auth": "^0.5.0"
   },
   "devDependencies": {
     "babel-core": "^6.17.0",
