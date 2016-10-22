@@ -46,6 +46,7 @@
     "jsdom": "^9.8.0",
     "react": "^15.3.2",
     "react-dom": "^15.3.2",
+    "react-jwt-auth": "^0.5.4",
     "rimraf": "^2.5.4"
   }
 }
