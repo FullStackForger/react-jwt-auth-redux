@@ -42,7 +42,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "react-jwt-auth": "^0.5.8"
+    "react-jwt-auth": "^0.5.11"
   },
   "peerDependencies": {
     "react": "^15.3.2"
