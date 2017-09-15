@@ -24,7 +24,6 @@ const authReducer = (state = defaultState, action) => {
 			return Object.assign(newState, {
 				authenticated: true,
 				authenticating: false,
-				token: action.token
 			})
 		case ACTION.LOGIN_FAILED:
 		case ACTION.SIGNUP_FAILED:
